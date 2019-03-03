@@ -1,0 +1,34 @@
+body{
+	background-image: url(cover.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: 50% 50%;
+}
+
+.words{
+	text-align: center;
+	color: #2A3137;
+}
+
+input[type="button"]{
+	margin-left: 725px;
+	border-radius: 20px;
+	margin-bottom: 17px;
+	background-color: #2A3137;
+	color:#fff;
+	width:140px;
+	height: 40px;
+}	
+
+
+table, th, td {
+	margin-top: 20px;
+  border: 0.1px solid black;
+  width:220px;
+
+}
+table{
+
+	margin:auto;
+	border-radius: 40px;
+}
